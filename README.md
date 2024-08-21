@@ -7,10 +7,19 @@ B.S. in Business, University of Phoenix
 
 Software Testing Analyst, NuPaths IT Program, Harrisburg University of Science & Technology
 
+### Skills
+- Data analysis and Interpretation
+- Project planning and Coordination
+- Collaboration and Stakeholder Engagement
+- Critical thinking and Problem Solving
+  
 ### Certifications
 - CompTIA IT Fundamentals
 - Microsoft Office Specialist: Excel Associate
 - Certiport IT Specialist Databases
+-	ISTQB, Certified Foundational Tester Level
+-	IAPM, Certified Junior Agile Project Manager
+-	ISTQB, Certified Foundational Tester Level - Agile Tester
 
 ### Projects
 - Predicting Heart Disease for a Healthcare Provider
