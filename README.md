@@ -6,12 +6,6 @@ Master of Science in Data Science, Eastern University, Expected October 2024
 B.S. in Business, University of Phoenix
 
 Software Testing Analyst, NuPaths IT Program, Harrisburg University of Science & Technology
-
-### Skills
-- Data analysis and Interpretation
-- Project planning and Coordination
-- Collaboration and Stakeholder Engagement
-- Critical thinking and Problem Solving
   
 ### Certifications
 - CompTIA IT Fundamentals
@@ -20,7 +14,24 @@ Software Testing Analyst, NuPaths IT Program, Harrisburg University of Science &
 -	ISTQB, Certified Foundational Tester Level
 -	IAPM, Certified Junior Agile Project Manager
 -	ISTQB, Certified Foundational Tester Level - Agile Tester
+  
+### Technical Skills
+- SQL
+- R
+- Python
+- Data analysis and Interpretation
+- Data Cleaning and Visualization
+- Statistical Knowledge
+- Data Management
 
+### Skills
+
+- Project planning and Coordination
+- Collaboration and Stakeholder Engagement
+- Critical thinking and Problem Solving
+- Data Storytelling
+- Business Acumen
+  
 ### Projects
 - Predicting Heart Disease for a Healthcare Provider
 
