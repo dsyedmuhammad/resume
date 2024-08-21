@@ -1,19 +1,19 @@
 # Data Scientist
 
-###Education
+### Education
 Master of Science in Data Science, Eastern University, Expected October 2024
 B.S. in Business, University of Phoenix
 Software Testing Analyst, NuPaths IT Program, Harrisburg University of Science & Technology
 
-###Certifications
+### Certifications
 - CompTIA IT Fundamentals
 - Microsoft Office Specialist: Excel Associate
 - Certiport IT Specialist Databases
 
-###Projects
+### Projects
 - Predicting Heart Disease for a Healthcare Provider
 
-###Professional Experience
+### Professional Experience
 ELP Member | Center for Employment Opportunities | Philadelphia, PA | May 2024 – Present
 - Document participant contact and progress in the Salesforce case management system, ensuring accurate data management.
 -	Assist in the creation of data-driven reports to track participant outcomes and support vocational team efforts.
