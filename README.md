@@ -2,7 +2,9 @@
 
 ### Education
 Master of Science in Data Science, Eastern University, Expected October 2024
+
 B.S. in Business, University of Phoenix
+
 Software Testing Analyst, NuPaths IT Program, Harrisburg University of Science & Technology
 
 ### Certifications
